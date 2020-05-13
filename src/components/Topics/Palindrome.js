@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-export default class Palindrom extends Component {
+export default class Palindrome extends Component {
     constructor() {
         super();
     
